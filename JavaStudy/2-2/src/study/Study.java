@@ -27,6 +27,4 @@ class Account {
     }
 
 }
-//課題を提出します。
-//以下URLです。よろしくお願いいたします。
-//https://github.com/shiori-ai/curriculum.git
+
